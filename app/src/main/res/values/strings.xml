@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="movie_database_api">60b691b851cb21a4c2dec51cdbde390a</string>
+    <string name="sort_by">popularity.desc</string>
+</resources>
